@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "\\\\wsl$\\Ubuntu-20.04\\home\\gustavobraganti\\projetos\\rocketseat\\node\\node-rocketseat\\src\\database\\database.sqlite",
+            "name": "NLW",
+            "group": "SQlite"
+        }
+    ]
+}
